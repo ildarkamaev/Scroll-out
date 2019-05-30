@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:700|Roboto&display=swap");
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+}
+
+@each $name,
+$color in $bg-colors {
+    .#{$name} {
+        background: $color;
+    }
+}
