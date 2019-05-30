@@ -4,8 +4,8 @@ Simple Web-page which uses Animate.css and Scoll-out.js to fire up animations on
 
 ## WTF is this?
 
-Based Coursetros's video [A 1kb Scroll Animation Library? Hello Scroll-Out](https://www.youtube.com/watch?v=m-MpXGFKomE&t=621s) I decided to built a simple web-page that uses
-I built a basic web page which fires up animations from Animate.css based on scroll.
+Based Coursetros's video [A 1kb Scroll Animation Library? Hello Scroll-Out](https://www.youtube.com/watch?v=m-MpXGFKomE&t=621s) 
+I built a basic web page which fires up animations from Animate.css based on scroll using scroll-out.js.
 
 ## What was used:
 * HTML5 & CSS3
